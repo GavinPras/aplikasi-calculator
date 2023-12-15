@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input {
+  width: 313px;
+  height: 50px;
+}
+
+button {
+  width: 80px;
+  height: 80px;
+}
